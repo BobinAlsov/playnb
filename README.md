@@ -1,2 +1,3 @@
-# playnb
-Плеер от всего на свете!
+<p align="center">
+!(images/other/playnb.png)[]
+<br>
