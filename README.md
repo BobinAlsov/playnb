@@ -1,3 +1,7 @@
 <p align="center">
-!(images/other/playnb.png)[]
+<img src="images/other/playnb.png">
 <br>
+Плеер от всего на свете!
+</p>
+
+# Playnb
