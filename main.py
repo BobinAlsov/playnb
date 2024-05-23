@@ -1,6 +1,3 @@
-# PyQt5 Video player
-#!/usr/bin/env python
-
 from PyQt5.QtCore import QDir, Qt, QUrl
 from PyQt5.QtMultimedia import QMediaContent, QMediaPlayer
 from PyQt5.QtMultimediaWidgets import QVideoWidget
