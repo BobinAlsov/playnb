@@ -1,7 +1,8 @@
 <p align="center">
 <img src="images/other/playnb.png">
 <br>
-Плеер от всего на свете!
 </p>
 
-# Playnb
+# Playnb - Плеер от всего на свете!
+# Лицензия
+[MIT](https://github.com/BobinAlsov/tree/edit/main/LICENSE)
