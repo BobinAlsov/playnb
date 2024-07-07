@@ -16,7 +16,7 @@
 git clone https://github.com/BobinAlsov/playnb.git
 ```
 
-Потом нужно устоновить PyQt5
+Потом нужно установить PyQt5
 ```bash
 pip install PyQt5
 ```
