@@ -4,8 +4,8 @@
 </p>
 
 # Playnb - Плеер от всего на свете!
-<br>
 <img alt="GitHub License" src="https://img.shields.io/github/license/BobinAlsov/playnb?style=for-the-badge&labelColor=%23DA70FF&color=%23a100da">
+
 **Playnb** - Это плеер с открытым исходным кодом, написанная на Python и использует PyQt5.
 
 # Клонирование
