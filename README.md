@@ -29,4 +29,4 @@ python main.py
 ```
 
 # Лицензия
-[MIT](https://github.com/BobinAlsov/tree/edit/main/LICENSE)
+[MIT](https://github.com/BobinAlsov/playnb/blob/main/LICENSE)
