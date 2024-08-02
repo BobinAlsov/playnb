@@ -17,6 +17,10 @@
 ```bash
 git clone https://github.com/BobinAlsov/playnb.git
 ```
+Перейдите в эту папку
+```bash
+cd playnb
+```
 
 Потом нужно установить PyQt5
 ```bash
